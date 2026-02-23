@@ -1,0 +1,6 @@
+services:
+  - type: worker
+    name: blackjack-bot
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python blackjack_bot.py
