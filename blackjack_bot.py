@@ -13,7 +13,7 @@ from telegram.ext import (
 )
 
 # ─── تنظیمات ───────────────────────────────────────────────
-BOT_TOKEN   = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN   = "8145847205:AAEHqvVRbuE-mdGFa1QqGOCQdGfYd8dgWWw"
 SCORES_FILE = "scores.json"
 
 # ─── ذخیره و لود امتیازات ───────────────────────────────────
